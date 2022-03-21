@@ -1,2 +1,3 @@
-# hello.py
-my first hello file
+
+my first git code file
+
